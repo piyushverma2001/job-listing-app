@@ -60,17 +60,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
 
-# Job Listing Platform (Mini Version)
-
-## Objective
-A basic job listing platform with:
-- User registration/login using Laravel Sanctum
-- RESTful APIs for jobs
-- Admin job management via Blade frontend
-- Custom middleware for job ownership
-- Eloquent relationships
-- Validation, migrations, and API Resource classes
-
+# Job Listing Platform
 ---
 
 ## Setup Instructions
